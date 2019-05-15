@@ -246,7 +246,6 @@ class Hhbuys {
         this.x = x;
         this.y = y;
         this.tariq = 0;
-        this.kerqanak = 0;
         this.index = index;
         this.directions = [];
     }
